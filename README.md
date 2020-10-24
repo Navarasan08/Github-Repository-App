@@ -7,7 +7,7 @@ A new Flutter project includes a List of Github Repositories created in last 30 
  - Coding Structure.
  - Using provider State Management Easy to Update Additional functions in Future.
  
- App Link - [a link](https://github.com/Navarasan08/Github-Repository-App/tree/master/assets/app-armeabi-v7a-release.apk)
+ App Link - [app Link](https://github.com/Navarasan08/Github-Repository-App/tree/master/assets/app-armeabi-v7a-release.apk)
  
  Screens
   <img src="https://github.com/Navarasan08/Github-Repository-App/blob/master/assets/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202020-10-24%20at%2020.04.27.png" width="350" alt="Image">
